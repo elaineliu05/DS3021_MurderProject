@@ -1,4 +1,5 @@
 Elaine, Ethan, Vinith, Jolie, Chelsea
+
 Data Sources:
 Murder Accountability Project:  https://www.murderdata.org/p/data-docs.html?m=1
 Victim demographic
